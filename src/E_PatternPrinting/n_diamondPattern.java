@@ -1,6 +1,6 @@
 package E_PatternPrinting;
 
-public class m_diamondPattern {
+public class n_diamondPattern {
 
 
     public static void printP(int n){
